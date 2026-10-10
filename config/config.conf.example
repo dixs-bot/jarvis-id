@@ -1,6 +1,0 @@
-# Copy this file to config/config.conf and edit only if needed.
-# JARVIS does not execute this file as shell code.
-ADB_BIN=termux-adb
-FASTBOOT_BIN=termux-fastboot
-DRY_RUN=1
-ANIMATION=on
